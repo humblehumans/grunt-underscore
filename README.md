@@ -10,15 +10,20 @@ $ grunt
 
 - To update the theme with a new instance of [Underscore](http://underscores.me/) replace the contents of repo src folder
 
-- Find and replace all instances of '../humble-humans' in Gruntfile.js and replace with your new theme slug
+- Find and replace all instances of default theme slug in Gruntfile.js
 
 ```
+- Find
+../humble-humans
+
+- Replace
 ../your-new-theme-slug
 ```
 
 - If not using SASS, remove exclude statement from Gruntfile.js copy task
 
 ```
+- Remove
 !style.css
 ```
 
