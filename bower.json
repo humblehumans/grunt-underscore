@@ -1,9 +1,8 @@
 {
-  "name": "javascript-automation",
+  "name": "grunt-underscore",
   "version": "2.0.0",
-  "homepage": "https://github.com/humblehumans/javascript-automation",
+  "homepage": "https://github.com/humblehumans/grunt-underscore",
   "authors": [
-    "Craig Phares <craigphares@sixoverground.com>",
     "Gregory Edgerton <greg@humblehumans.com>"
   ],
   "license": "MIT",
@@ -15,8 +14,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.4",
-    "html5-boilerplate": "~5.2.0",
-    "bootstrap": "~3.3.5"
+    // "jquery": "~2.1.4",
+    // "html5-boilerplate": "~5.2.0",
+    // "bootstrap": "~3.3.5"
   }
 }
