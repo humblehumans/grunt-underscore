@@ -36,4 +36,4 @@ $ grunt
 Theme Name: Humble Humans - Uncompiled
 ```
 
-# This repo does not version control Wordpress or Underscore!  
+This repo does not version control Wordpress or Underscore thanks to the wisdom of [Sarah Gooding](http://wptavern.com/git-and-wordpress-3-tips-to-do-it-better).
