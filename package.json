@@ -1,5 +1,5 @@
 {
-  "name": "grunt-underscore",
+  "name": "shebell-shebell-wp",
   "version": "1.0.0",
   "description": "Grunt javascript automation configured for the Wordpress starter theme Underscore ",
   "scripts": {
@@ -7,14 +7,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/humblehumans/grunt-underscore.git"
+    "url": "https://gregoryedgerton@bitbucket.org/gregoryedgerton/shebell-shebell-wp.git"
   },
   "author": "Gregory Edgerton <greg@humblehumans.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/humblehumans/grunt-underscore/issues"
-  },
-  "homepage": "https://github.com/humblehumans/grunt-underscore",
+  "homepage": "https://bitbucket.org/gregoryedgerton/shebell-shebell-wp",
   "devDependencies": {
     "bower": "^1.4.1",
     "grunt": "^0.4.5",
