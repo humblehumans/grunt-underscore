@@ -8,7 +8,7 @@ $ bower install
 $ grunt
 ```
 
-- To update the theme with a new instance of [Underscore](http://underscores.me/) replace the contents of repo src folder
+- To update the theme with a new instance replace the contents of src
 
 - Find and replace all instances of default theme slug in Gruntfile.js
 
@@ -22,7 +22,7 @@ $ grunt
 ../your-new-theme-slug
 ```
 
-- If not using SASS, remove exclude statement from Gruntfile.js copy task
+- If not using SASS remove exclude statement from Gruntfile.js copy task
 
 [ Remove ]
 ```
