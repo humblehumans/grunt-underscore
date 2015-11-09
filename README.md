@@ -1,6 +1,6 @@
 # grunt-underscore
 
-[Grunt](http://gruntjs.com/) javascript task runner configured for [Wordpress](https://wordpress.org/) using [Automattic](https://github.com/automattic/) starter theme [Underscore](http://underscores.me/). Clone this repo into your theme folder and build locally. Theme will compile as 'humble-humans'. 
+[Grunt](http://gruntjs.com/) javascript task runner configured for [Wordpress](https://wordpress.org/) using [Automattic](https://github.com/automattic/) starter theme [Underscores](http://underscores.me/). Clone this repo into your theme folder and build locally. Theme will compile as 'humble-humans'. 
 
 ```
 $ npm install
@@ -36,4 +36,6 @@ $ grunt
 Theme Name: Humble Humans - Uncompiled
 ```
 
-This repo does not version control Wordpress or Underscore thanks to the wisdom of [Sarah Gooding](http://wptavern.com/git-and-wordpress-3-tips-to-do-it-better).
+This repo does not version control Wordpress or Underscores thanks to the wisdom of [Sarah Gooding](http://wptavern.com/git-and-wordpress-3-tips-to-do-it-better).
+
+Continually and originally inspired by [Craig Phares](https://github.com/craigphares) of [Six Overground](https://github.com/sixoverground)
