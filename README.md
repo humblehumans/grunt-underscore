@@ -1,4 +1,4 @@
-# grunt-underscore
+# grunt-underscores
 
 [Grunt](http://gruntjs.com/) javascript task runner configured for [Wordpress](https://wordpress.org/) using [Automattic](https://github.com/automattic/) starter theme [Underscores](http://underscores.me/). Clone this repo into your theme folder and build locally. Theme will compile as 'humble-humans'. 
 
