@@ -12,24 +12,26 @@ $ grunt
 
 - Find and replace all instances of default theme slug in Gruntfile.js
 
-```
 [ Find ]
+```
 ../humble-humans
+```
 
 [ Replace ]
+```
 ../your-new-theme-slug
 ```
 
 - If not using SASS, remove exclude statement from Gruntfile.js copy task
 
-```
 [ Remove ]
+```
 !style.css
 ```
 
 - When enabling theme make sure to activate the compiled version, both will appear in WP Admin. You can differentiate the two by changing the name of your pre-compiled theme via src/style.css
 
+[ Example ]
 ```
-[ Remove ]
 Theme Name: Humble Humans - Uncompiled
 ```
